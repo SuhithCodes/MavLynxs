@@ -58,7 +58,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/mavlynx.git
+   git clone https://github.com/SuhithCodes/MavLynxs.git
    cd mavlynx
    ```
 
@@ -85,6 +85,8 @@ Ensure you have the required environment set up for React Native development (No
 - **Suhith Ghanathay**
 - **Vraj Patel**
 - **Shiney Chinthamalla**
+- **Krishna Patel**
+  
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
