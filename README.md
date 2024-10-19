@@ -59,7 +59,7 @@ To set up the project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/SuhithCodes/MavLynxs.git
-   cd mavlynx
+   cd MavLynxApp
    ```
 
 2. **Install dependencies**:
